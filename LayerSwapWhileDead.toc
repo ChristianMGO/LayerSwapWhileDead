@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: LayerSwapWhileDead
+## Notes: Independent dead-swap request workflow, with optional combat swapping.
+## Author: LayerSwapWhileDead
+## Version: 1.0.0
+## Dependencies: LayerSwap
+## SavedVariables: LayerSwapWhileDeadDB
+
+LayerSwapWhileDead.lua
