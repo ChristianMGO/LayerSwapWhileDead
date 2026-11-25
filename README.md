@@ -17,7 +17,7 @@ LayerSwapWhileDead extends the functionality of LayerSwap without modifying its 
 ## Requirements
 
 - World of Warcraft Forever.
-- [LayerSwap](https://www.curseforge.com/wow/addons/layerswap).
+- [LayerSwap](https://www.curseforge.com/wow/addons/layer).
 
 LayerSwapWhileDead is a companion addon and requires LayerSwap to function.
 
