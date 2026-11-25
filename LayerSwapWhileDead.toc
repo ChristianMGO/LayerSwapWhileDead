@@ -1,8 +1,9 @@
 ## Interface: 16001
 ## Title: LayerSwapWhileDead
-## Notes: Independent dead-swap request workflow, with optional combat swapping.
+## Notes: Extends LayerSwap to allow layer swapping while dead or as a ghost, with optional combat support.
 ## Author: LayerSwapWhileDead
 ## Version: 1.0.0
+## IconTexture: Interface\AddOns\LayerSwapWhileDead\icon.tga
 ## Dependencies: LayerSwap
 ## SavedVariables: LayerSwapWhileDeadDB
 
